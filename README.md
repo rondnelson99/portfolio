@@ -1,3 +1,8 @@
+# Ron's Notes
+- run with jekyll serve --livereload when working to preview
+- videos use syntax like https://github.com/nathancy/jekyll-embed-video but called like `{% include video id="NDRlLmxTAEU" provider="youtube" %}`
+
+# Orininal README
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
